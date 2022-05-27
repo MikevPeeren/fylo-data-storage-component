@@ -11,6 +11,8 @@ body {
   margin: 0;
   font-family: "Raleway", sans-serif;
   font-size: 14px;
+
+  @apply bg-veryDarkBlue;
 }
 
 a {
@@ -20,4 +22,16 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+.backgroundImage {
+  @apply min-w-full bg-bottom bg-no-repeat;
+
+  background-size: 100% 50%;
+  background-image: url("/bg-desktop.png");
+
+  @media only screen and (max-width: 768px) {
+    background-size: cover;
+    background-image: url("/bg-mobile.png");
+  }
 }
