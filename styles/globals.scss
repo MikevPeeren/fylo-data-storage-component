@@ -1,4 +1,3 @@
-/* ./styles/globals.css */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -34,4 +33,12 @@ a {
     background-size: cover;
     background-image: url("/bg-mobile.png");
   }
+}
+
+.mantine-Slider-bar {
+  background: linear-gradient(90deg, #ffa197 0%, #ff4a95 100%);
+}
+
+.mantine-Slider-thumb {
+  border-color: #ff4a95;
 }
