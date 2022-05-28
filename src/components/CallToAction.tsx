@@ -5,7 +5,7 @@ import Logo from "../icons/Logo";
 
 const CallToAction = () => {
   return (
-    <div className="w-5/6 bg-darkBlue p-10 rounded-xl rounded-tr-[100px]">
+    <div className="w-5/6 bg-darkBlue p-10 rounded-2xl rounded-tr-[100px]">
       <div className="flex flex-col">
         <div className="my-10">
           <Logo />
