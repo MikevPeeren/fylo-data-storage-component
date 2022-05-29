@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
       <main className="min-h-screen backgroundImage">
         <div className="flex flex-col md:flex-row min-h-screen justify-center items-center">
-          <div className="flex flex-col lg:flex-row lg:items-end items-center justify-center xl:w-3/4 lg:w-3/4 w-full">
+          <div className="flex flex-col lg:flex-row lg:items-end items-center justify-center 2xl:w-2/4 xl:w-2/4 lg:w-3/4 w-full">
             <CallToAction />
             <DisplayUsage />
           </div>
