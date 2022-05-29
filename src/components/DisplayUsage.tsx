@@ -25,6 +25,7 @@ const DisplayUsage = () => {
             value={usageValue}
             onChange={setUsageValue}
             defaultValue={usageValue}
+            thumbLabel="Thumb slider usage in GB"
             min={0}
             max={1000}
           />
