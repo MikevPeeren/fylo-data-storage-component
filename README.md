@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution]()
+- Solution URL: [Solution](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n/hub/fylo-data-storage-component-nextjs-mantinedev-T1aXTOPah4)
 - Live Site URL: [Website](https://fylo-data-storage-component-two-beta.vercel.app/)
 
 ## My process
